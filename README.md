@@ -1,9 +1,8 @@
-# napavalley
-  <meta name="google-site-verification" content="tOt32z-0xa0Q78V_q6b7ng_NlTE8At6iMy9PbwMgOP8" />
-  </head>
 <!DOCTYPE html>
 <html lang="en">
 <head>
+  <meta name="google-site-verification" content="7JRUGUB4UhNCoCQRQQhzwD4nzxhq4L-2t_7mncRMRQg" />
+</head>
 <header>
   <h1>✨ Napa Valley VIP Limo – Your Luxury Ride Through Wine Country ✨</h1>
 </header>
